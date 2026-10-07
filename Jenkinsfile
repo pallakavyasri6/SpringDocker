@@ -57,4 +57,4 @@ pipeline {
             echo 'CI/CD Pipeline failed!'
         }
     }
-}
+}// Automatic CI CD trigger test
